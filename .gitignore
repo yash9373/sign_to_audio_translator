@@ -4,7 +4,8 @@
 # Ignore build artifacts
 build/
 dist/
-
+/MP_Data
+/.ipynb_checkpoints
 # Ignore IDE files
 .idea/
 .vscode/
