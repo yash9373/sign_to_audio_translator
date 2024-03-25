@@ -1,0 +1,13 @@
+# Ignore temporary files
+*~
+
+# Ignore build artifacts
+build/
+dist/
+
+# Ignore IDE files
+.idea/
+.vscode/
+
+# Ignore sensitive files
+credentials.json
